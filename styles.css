@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+  }
+  
+  /* Navbar Styles */
+  .navbar {
+    background-color: #00bcd4; /* Vibrant cyan */
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .navbar a {
+    color: #f0ecf0; /* White text */
+    font-weight: bold; 
+    padding: 15px;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .navbar a:hover {
+    background-color: #008394; /* Darker cyan on hover */
+  }
+  
+  /* Container Styles */
+  .container {
+    padding: 20px;
+  }
+  
+  /* Vibrant Page Backgrounds */
+  .index-page {
+    background-color: #b3e5fc; /* Light blue */
+  }
+  
+  .diagnostic-page {
+    background-color: #ab662a; /* Light orange */
+  }
+  
+  .mock-test-page {
+    background-color: #b0517f; /* Light green */
+  }
+  
+  .weak-areas-page {
+    background-color: #92c623; /* Light purple */
+  }
+  
+  .study-tips-page {
+    background-color: #5ba99c; /* Light yellow */
+  }
+  
+  /* Heading Styles */
+  h1, h2 {
+    color: #00575b; /* Teal for headings */
+  }
+  
+  /* List Styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
